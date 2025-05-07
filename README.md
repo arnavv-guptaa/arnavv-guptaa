@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Arnav @arnavv-guptaa
--  I’m interested in Quantitative Finance, Statistics and AI/ML
--  I’m currently learning python and R
--  I’m looking to collaborate on interesting research projects in the field of quantitative finance or computer vision
+-  I work on projects in Quantitative Finance, Statistics and AI
